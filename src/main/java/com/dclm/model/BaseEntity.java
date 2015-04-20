@@ -1,6 +1,4 @@
-package com.model;
-
-import java.sql.Timestamp;
+package com.dclm.model;
 
 /**
  * Created by miulaurctin on 16/04/15.
